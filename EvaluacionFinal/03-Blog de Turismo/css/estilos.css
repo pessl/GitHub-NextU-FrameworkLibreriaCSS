@@ -1,0 +1,113 @@
+.body-turismo {
+	background-attachment: fixed;
+	background-image: url(../img/fondo.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Comic Sans MS", sans-serif;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.row-header {
+	padding-top: 10px;
+}
+
+.img-logo {
+	padding-left: 8%;
+	padding-top: 5%;
+}
+
+.logo {
+	border-radius: 8%;
+	width: 100%;
+}
+
+.col-nav-slo {
+	margin-top: 10px;
+}
+
+.nav-btn {
+	padding: 5px 10px;
+	text-align: center;
+}
+
+.slogan {
+	color: white;
+	font-style: oblique;
+	font-size: 150%;
+}
+
+.row-section {
+	padding-left: 2%;
+}
+
+.iconos {
+	border-radius: 8%;
+	margin-bottom: 40px;
+	width: 70%;
+}
+
+.imagenes {
+	border: groove;
+	margin-bottom: 8px;
+	margin-top: 15px;
+	height: 100%;
+	width: 100%;
+}
+
+.img-central {
+	height: 520px;
+}
+
+h4, h6 {
+	color: white;
+	font-style: oblique;
+}
+
+.imagen-articulo {
+	border: groove;
+	float: left;
+	margin-right: 10px;
+	width: 40%;
+}
+
+p {
+	text-align: justify;
+	color: white;
+}
+
+.imagen-autor {
+	width: 50%;
+}
+
+h5 {
+	font-style: oblique;
+	border-bottom: solid
+}
+
+.p-autor {
+	font-size: 18px;
+	text-align: center;
+}
+
+@media (max-width: 770px) {
+	.col-logo {
+		height: 100px;
+		width: 100%;
+	}
+
+	.logo{
+		height: 80px;
+	}
+
+	.imagenes {
+		height: 200px;
+		padding-left: 15px;
+		width: 500px;
+	}
+
+	.imagen-articulo {
+		width: 100%;
+	}
+}

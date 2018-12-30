@@ -1,0 +1,124 @@
+.body-gastronomia {
+	background-image: url(../img/fondo.png);
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.row-encabezado{
+	background: rgba(255,127,80,0.5);
+	border-bottom: solid 2px white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.column-encabezado {
+	border-right: solid 2px white;
+	margin-left: 18px;
+}
+
+.titulo-encabezado {
+	color: white;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+}
+
+.slogan-encabezado {
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: right;
+}
+
+.row-seccion {
+	background: rgba(255,127,80,0.5);
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.seccion-izquierda {
+	background-color: #9ec7c4;
+	margin-left: 10px;
+	padding-top: 20px;
+}
+
+.boton-search {
+	width: 10px;
+}
+
+.menu-navegacion {
+	border: solid white;	
+	color: white;
+}
+
+.h4-seccion {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+	margin-top: 25px;
+}
+
+.img-favorito {
+	height: 90%;
+	width: 90%;
+}
+
+.row-img-favoritos {
+	margin-right: 17px;
+}
+
+.row-historial {
+	padding-bottom: 15px;
+}
+
+.row-enlace-historial {
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+.seccion-derecha {
+	background-color: #ecd005;
+	padding: 10px;
+}
+
+h2 , h5 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+}
+
+.contenido-img {
+	width: 100%;
+}
+
+p {
+	color: white;
+	text-align: justify;
+}
+
+.row-contenido-parrafo {
+	padding-top: 15px;
+}
+
+.row-comentario {
+	color: white;
+	padding-top: 15px;
+}
+
+.img-comentario {
+	width: 70%;
+}
+
+.user-columna-comentario {
+	margin-left: 0px;
+	margin-right: 18px;
+	padding-top: 10px; 
+	padding-bottom: 10px; 
+}
+
+.contenido-2 {
+	margin-top: 15px;
+}
+
+.comentario-escrito {
+	border: solid 1px white;
+	border-radius: 25px;
+	margin-bottom: 10px;
+}

@@ -1,0 +1,92 @@
+body {
+	background: grey;
+	color: White;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.musica-header {	
+	background: url(../img/textura.jpg);
+	height: 100%;
+	width: 100%;
+} 
+
+.logo-img {
+	margin-top: 20px;
+	margin-left: 60px;
+	position: absolute;
+	top: 0;
+	width: 20%;
+}
+
+.musica-sociales {
+	margin-top: 120px;
+}
+
+.img-social {
+	height: 50px;
+	margin-bottom: 20px;
+	width: 10%;
+}
+
+.musica-navegador {	
+	background: url(../img/btn-fondo.jpg);
+	height: 100%;
+	margin-top: 20px;	
+	text-align: center;
+	width: 100%;
+}
+
+.musica-btn {
+	background: none;	
+	border-style: none;	
+	color: White;
+	font-weight: bold;	
+}
+
+.musica-contenido {
+	background: url(../img/contenido-textura.jpg);
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	padding-bottom: 25px;
+  	width: 100%;
+}
+
+.img-contenido {	
+	margin-top: 65px;	
+	width: 280px;
+}
+
+.img-comentario {	
+	height: 70px;
+	padding-top: 5px;
+	width: 150%;
+}
+
+.comentario {
+	color: Black;
+	width: 100%;
+}
+
+.buscar-row {
+	padding-top: 25px;
+}
+
+.opciones-row {
+	padding-top: 10px;
+}
+
+.lista-opciones {
+	margin-bottom: 5px;
+}
+
+.row-comentario {
+	margin-top: 10px;
+}
+
+@media (max-width: 770px) {
+	.musica-sociales {
+		text-align: center;
+		padding-top: 10px;
+		vertical-align: bottom;
+	}
+}
